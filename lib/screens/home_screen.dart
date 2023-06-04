@@ -267,7 +267,7 @@ class HomePage extends StatelessWidget {
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
           BottomNavigationBarItem(
-              icon: Icon(Icons.message), label: "bills"),
+              icon: Icon(Icons.message), label: "Bills"),
           BottomNavigationBarItem(icon: Icon(Icons.person), label: "Profile"),
           BottomNavigationBarItem(
               icon: Icon(Icons.settings), label: "Settings"),
